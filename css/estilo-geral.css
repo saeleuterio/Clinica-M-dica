@@ -77,3 +77,16 @@ main {
     .topo-links { width: 100%; border-top: 1px solid #009f;}
 }
 /* Fim CSS Topo */
+
+
+
+/* Início CSS Rodapé */
+footer {
+    background-color: #0d6e71;
+    color: #fff;
+    padding: 20px;
+}
+footer .container {
+    text-align: center;
+}
+/* Fim CSS Rodapé */
