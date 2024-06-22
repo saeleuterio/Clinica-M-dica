@@ -31,13 +31,13 @@
     color: #0d6e71;
 }
 
-.bax-tabela-especialista {
+.box-tabela-especialista {
     display: flex;
     height: 240px;
     padding: 0 20px;
 }
 
-.bax-tabela-especialista img {
+.box-tabela-especialista img {
     width: 30%;
     height: 100%;
 }
@@ -70,7 +70,7 @@
 }
 
 @media (max-width: 768px) {
-    .bax-tabela-especialista img {
+    .box-tabela-especialista img {
         display: none;
     }
 
@@ -85,7 +85,7 @@
 }
 
 @media (max-width: 425px) {
-    .bax-tabela-especialista {
+    .box-tabela-especialista {
         padding: 0;
     }
 }
